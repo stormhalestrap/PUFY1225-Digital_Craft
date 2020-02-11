@@ -1,7 +1,7 @@
 # Digital craft spring-'20
 
 ## Homework 
-* [blog entery]()
+* [blog entery](about:blank)
 
 ## Homework week 2
 * [sketch 1](https://stormhalestrap.github.io/PUFY1225-Digital_Craft/week2_sketch1/empty-example/index.html)
