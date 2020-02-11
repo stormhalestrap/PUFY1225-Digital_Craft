@@ -9,7 +9,7 @@
 * [sketch 3](https://stormhalestrap.github.io/PUFY1225-Digital_Craft/week2_sketch3/index.html)
 
 ## Homework week 3
-* [sketch 1]()
+* [sketch 1](PUFY1225-Digital_Craft/week3_sketch1/index.html)
 * [sketch 2]()
 * [sketch 3]()
 
