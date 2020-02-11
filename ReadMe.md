@@ -10,7 +10,7 @@
 
 ## Homework week 3
 * [sketch 1](PUFY1225-Digital_Craft/week3_sketch1/index.html)
-* [sketch 2]()
+* [sketch 2](PUFY1225-Digital_Craft/week3_sketch2/index.html)
 * [sketch 3]()
 
 ![alternative text](web link)
